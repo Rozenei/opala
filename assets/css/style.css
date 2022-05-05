@@ -11,7 +11,7 @@ html, body {
 }
 
 header {
-    background-image: url("assets/imagens/opala-ss-amarelo-top.webp");
+    background-image: url("../imagens/opala-ss-amarelo-top.webp");
     background-repeat: no-repeat;
     background-position: center center;
     min-width: 150px;
@@ -87,28 +87,28 @@ section.imagem > p {
     text-shadow: 1px 1px 0px black;
 }
 section#img01 {
-    background-image: url("assets/imagens/opala-comodoro-classico-azul.webp");
+    background-image: url("../imagens/opala-comodoro-classico-azul.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right right;
     font-variant: small-caps;
 }
 section#img02 {
-    background-image: url("assets/imagens/opala-ss-marrom.jpg");
+    background-image: url("../imagens/opala-ss-marrom.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right right;
     font-variant: small-caps;
 }
 section#img03 {
-    background-image: url("assets/imagens/opala-ss-amarelo-top2.webp");
+    background-image: url("../imagens/opala-ss-amarelo-top2.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right center;
     font-variant: small-caps;
 }
 section#img04 {
-    background-image: url("assets/imagens/opala-ss-preto.jpg");
+    background-image: url("../imagens/opala-ss-preto.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center right ;
@@ -116,7 +116,7 @@ section#img04 {
 }
 
 section#img05 {
-    background-image: url("assets/imagens/opala-\ tunado-verde.jpg");
+    background-image: url("../imagens/opala-\ tunado-verde.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right center;
@@ -124,7 +124,7 @@ section#img05 {
 }
 
 section#img06 {
-    background-image: url("assets/imagens/opala-\ tunado-vermelho-top.jpg");
+    background-image: url("../imagens/opala-\ tunado-vermelho-top.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right center;
@@ -132,7 +132,7 @@ section#img06 {
 }
 
 section#img07 {
-    background-image: url("assets/imagens/Opala-Diplomata-preto-1992-webp.webp");
+    background-image: url("../imagens/Opala-Diplomata-preto-1992-webp.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right center;
