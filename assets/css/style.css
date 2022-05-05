@@ -17,7 +17,7 @@ header {
     min-width: 150px;
     padding-top: 40px;
     background-size: cover;
-    color: black;
+    color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
 }
@@ -27,15 +27,15 @@ header > h1 {
     font-variant: small-caps;
     font-size: 3em;
     padding: 50px;
-    text-shadow: 2px 2px 0px rgba(255, 0, 0, 0.685);
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.566);
 }
 header > p {
     padding-bottom: 30px;
-    font-size: 1.3em;
+    font-size: 1.5em;
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-variant: small-caps;
-    text-shadow: 2px 2px 0px black;
+    text-shadow: 2px 2px 0px rgb(15, 0, 0);
 }
 header a, footer a {
     color: black;
@@ -60,13 +60,15 @@ section > h1 {
     font-size: 1.5em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-variant: small-caps;
-    color: red;
-    text-shadow: 1px 1px 0px black;
+    color: rgb(1, 10, 1);
+    text-shadow: 1px 1px 0px rgb(255, 242, 0, 0.685);
 }
 section.normal {
     background-color: white;
     color: black;
     padding: 7vh;
+    min-width: 150px;
+    padding-top: 40px;
 }
 section.imagem {
     background-color: rgba(0, 0, 0, 0.463);
@@ -76,8 +78,7 @@ section.imagem {
     box-shadow: inset 4px 4px 14px 0px black;
     padding-top: 4vh;
     padding-bottom: 4vh;
-    min-width: 150px;
-    padding-top: 40px;
+   
     background-size: cover;
 }
 section.imagem > p {
