@@ -109,7 +109,7 @@ section#img03 {
     font-variant: small-caps;
 }
 section#img04 {
-    background-image: url("../imagens/opala-ss-preto.jpg");
+    background-image: url("../imagens/comodoro-1979jpg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center right ;
@@ -133,7 +133,71 @@ section#img06 {
 }
 
 section#img07 {
+    background-image: url("../imagens/opala-ss-preto.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right center;
+    font-variant: small-caps;
+}
+
+section#img08 {
     background-image: url("../imagens/Opala-Diplomata-preto-1992-webp.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right center;
+    font-variant: small-caps;
+}
+
+section#img09 {
+    background-image: url("../imagens/dipllomata-azul-rebaixado.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right center;
+    font-variant: small-caps;
+}
+
+section#img10 {
+    background-image: url("../imagens/opala-diplomata-bordo-top.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center right;
+    font-variant: small-caps;
+}
+
+section#img11 {
+    background-image: url("../imagens/opala-diplomata-tunado-verdeJPG.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right center;
+    font-variant: small-caps;
+}
+
+section#img12 {
+    background-image: url("../imagens/opala-diplomata-cinza.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right center;
+    font-variant: small-caps;
+}
+
+section#img13 {
+    background-image: url("../imagens/opala-\ tunado-preto.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right center;
+    font-variant: small-caps;
+}
+
+section#img14 {
+    background-image: url("../imagens/opala-\ tunado-vermelho-top.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right center;
+    font-variant: small-caps;
+}
+
+section#img15 {
+    background-image: url("../imagens/opala-\ tunado-vermelho-top.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right center;
