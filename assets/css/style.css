@@ -63,6 +63,20 @@ section > h1 {
     color: rgb(1, 10, 1);
     text-shadow: 1px 1px 0px rgb(255, 242, 0, 0.685);
 }
+
+div.video {
+    background-color: black;
+    margin: 0px -20px 30px -20px;
+    padding: 20px;
+    padding-bottom: 30%;
+    position: relative;
+}
+div.video iframe {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}  
+
 section.normal {
     background-color: white;
     color: black;
