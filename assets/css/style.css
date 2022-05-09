@@ -109,7 +109,7 @@ section#img01 {
     background-image: url("../imagens/opala-comodoro-classico-azul.webp");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: right right;
+    background-position: center  ;
     font-variant: small-caps;
 }
 section#img02 {
@@ -138,7 +138,7 @@ section#img05 {
     background-image: url("../imagens/opala-\ tunado-verde.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: right center;
+    background-position: left center;
     font-variant: small-caps;
 }
 
@@ -146,7 +146,7 @@ section#img06 {
     background-image: url("../imagens/opala-\ tunado-vermelho-top.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: right center;
+    background-position: right;
     font-variant: small-caps;
 }
 
@@ -154,7 +154,7 @@ section#img07 {
     background-image: url("../imagens/opala-ss-preto.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: right center;
+    background-position: center;
     font-variant: small-caps;
 }
 
@@ -162,7 +162,7 @@ section#img08 {
     background-image: url("../imagens/Opala-Diplomata-preto-1992-webp.webp");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: right center;
+    background-position: center;
     font-variant: small-caps;
 }
 
@@ -170,7 +170,7 @@ section#img09 {
     background-image: url("../imagens/diplomata-azul-classico.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: right center;
+    background-position: left center;
     font-variant: small-caps;
 }
 
@@ -178,7 +178,7 @@ section#img10 {
     background-image: url("../imagens/opala-diplomata-bordo-top.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position:center right;
+    background-position: center;
     font-variant: small-caps;
 }
 
@@ -186,7 +186,7 @@ section#img11 {
     background-image: url("../imagens/opala-diplomata-tunado-verdeJPG.JPG");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: right center;
+    background-position:  center;
     font-variant: small-caps;
 }
 
@@ -194,7 +194,7 @@ section#img12 {
     background-image: url("../imagens/opala-diplomata-cinza.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: right center;
+    background-position:  left;
     font-variant: small-caps;
 }
 
@@ -202,7 +202,7 @@ section#img13 {
     background-image: url("../imagens/opala-\ tunado-preto.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: right center;
+    background-position: center;
     font-variant: small-caps;
 }
 
@@ -227,4 +227,10 @@ footer {
     padding: 10px;
     text-align: center;
 
+}
+@media(max-width: 450px) {
+
+    header {justify-content: space-between;
+
+    }
 }
