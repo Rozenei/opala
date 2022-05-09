@@ -194,7 +194,7 @@ section#img12 {
     background-image: url("../imagens/opala-diplomata-cinza.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position:  left;
+    background-position:  center;
     font-variant: small-caps;
 }
 
@@ -202,7 +202,7 @@ section#img13 {
     background-image: url("../imagens/opala-\ tunado-preto.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: right;
     font-variant: small-caps;
 }
 
