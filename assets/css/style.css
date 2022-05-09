@@ -80,8 +80,10 @@ div.video iframe {
 }  
 
 section.normal {
-    background-color: white;
+   background-image: linear-gradient(to right, rgba(227, 227, 244, 0.618), rgba(236, 233, 233, 0.165));
     color: black;
+    font-weight: bold;
+
     padding: 7vh;
     min-width: 150px;
     padding-top: 40px;
@@ -165,7 +167,7 @@ section#img08 {
 }
 
 section#img09 {
-    background-image: url("../imagens/dipllomata-azul-rebaixado.jpg");
+    background-image: url("../imagens/diplomata-azul-classico.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right center;
